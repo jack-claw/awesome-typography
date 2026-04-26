@@ -425,6 +425,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
 ## TrueType
 - [Truetype font software](http://luc.devroye.org/ttsoftware-index.html) - List (Big!) with descriptions [here](http://luc.devroye.org/ttsoftware.html).
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D, bubble, viking, cyberpunk). Transparent PNG export, free to start, commercial use included.
 
 
 ## Books
